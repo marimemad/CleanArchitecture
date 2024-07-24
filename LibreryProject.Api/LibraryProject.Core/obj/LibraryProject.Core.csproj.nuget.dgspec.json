@@ -1,0 +1,305 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj": {}
+  },
+  "projects": {
+    "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj",
+        "projectName": "LibraryProject.Core",
+        "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj",
+        "packagesPath": "C:\\Users\\marim.emad\\.nuget\\packages\\",
+        "outputPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marim.emad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj": {
+                "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj"
+              },
+              "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj": {
+                "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj"
+              },
+              "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj": {
+                "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj",
+        "projectName": "LibraryProject.Data",
+        "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj",
+        "packagesPath": "C:\\Users\\marim.emad\\.nuget\\packages\\",
+        "outputPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marim.emad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj",
+        "projectName": "LibraryProject.Infrustructure",
+        "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj",
+        "packagesPath": "C:\\Users\\marim.emad\\.nuget\\packages\\",
+        "outputPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marim.emad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj": {
+                "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj",
+        "projectName": "LibraryProject.Services",
+        "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj",
+        "packagesPath": "C:\\Users\\marim.emad\\.nuget\\packages\\",
+        "outputPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marim.emad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj": {
+                "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj"
+              },
+              "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj": {
+                "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

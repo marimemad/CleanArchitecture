@@ -1,0 +1,12 @@
+E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Data\bin\Debug\net7.0\LibraryProject.Data.deps.json
+E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Data\bin\Debug\net7.0\LibraryProject.Data.dll
+E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Data\bin\Debug\net7.0\LibraryProject.Data.pdb
+E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Data\obj\Debug\net7.0\LibraryProject.Data.csproj.AssemblyReference.cache
+E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Data\obj\Debug\net7.0\LibraryProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Data\obj\Debug\net7.0\LibraryProject.Data.AssemblyInfoInputs.cache
+E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Data\obj\Debug\net7.0\LibraryProject.Data.AssemblyInfo.cs
+E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Data\obj\Debug\net7.0\LibraryProject.Data.csproj.CoreCompileInputs.cache
+E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Data\obj\Debug\net7.0\LibraryProject.Data.dll
+E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Data\obj\Debug\net7.0\refint\LibraryProject.Data.dll
+E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Data\obj\Debug\net7.0\LibraryProject.Data.pdb
+E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Data\obj\Debug\net7.0\ref\LibraryProject.Data.dll
