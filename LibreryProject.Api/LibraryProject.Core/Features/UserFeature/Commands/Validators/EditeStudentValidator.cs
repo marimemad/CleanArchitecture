@@ -1,27 +1,34 @@
 ﻿using FluentValidation;
 using LibraryProject.Core.Features.UserFeature.Commands.Requests;
+using LibraryProject.Core.Shared;
 using LibraryProject.Services.Services.UserService;
+using Microsoft.Extensions.Localization;
 
 namespace LibraryProject.Core.Features.UserFeature.Commands.Validators
 {
     public class EditeStudentValidator : AbstractValidator<EditeUserCommand>
     {
         private readonly IUserService _userService;
-        public EditeStudentValidator(IUserService userService)
+        private readonly IStringLocalizer<SharedResources> _stringLocalizer;
+        public EditeStudentValidator(IUserService userService, IStringLocalizer<SharedResources> stringLocalizer)
         {
             ApplyValidationsRoles();
             ApplyCustomValidationsRoles();
             _userService = userService;
+            _stringLocalizer = stringLocalizer;
         }
 
         public void ApplyValidationsRoles()
         {
-            _ = RuleFor(x => x.Name).NotEmpty().WithMessage("Name must be not Empty")
-                            .NotNull().WithMessage("Name must be not Null")
+            _ = RuleFor(x => x.NameEn).NotEmpty().WithMessage("Name " + _stringLocalizer[SharedResourcesKeys.Empty])
+                            .NotNull().WithMessage("Name " + _stringLocalizer[SharedResourcesKeys.Require])
                             .MaximumLength(100).WithMessage("Max length must be 10 ");
+            _ = RuleFor(x => x.NameAr).NotEmpty().WithMessage("Name " + _stringLocalizer[SharedResourcesKeys.Empty])
+                .NotNull().WithMessage("Name " + _stringLocalizer[SharedResourcesKeys.Require])
+                .MaximumLength(100).WithMessage("Max length must be 10 ");
 
-            _ = RuleFor(x => x.Email).NotEmpty().WithMessage("Email must be not Empty")
-                .NotNull().WithMessage("Email must be not Null")
+            _ = RuleFor(x => x.Email).NotEmpty().WithMessage("Email " + _stringLocalizer[SharedResourcesKeys.Empty])
+                .NotNull().WithMessage("Email " + _stringLocalizer[SharedResourcesKeys.Require])
                 .MaximumLength(200).WithMessage("Max length must be 20 ");
         }
 

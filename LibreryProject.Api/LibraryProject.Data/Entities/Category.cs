@@ -1,18 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using LibraryProject.Data.Commons;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LibraryProject.Data.Entities
 {
-    public class Category
+    public class Category : GeneralLocalizationEntity
     {
         [Key]
         public int CategoryID { get; set; }
         [StringLength(500)]
-        public string Name { get; set; }
+        public string NameAr { get; set; }
+        [StringLength(500)]
+        public string NameEn { get; set; }
         public virtual ICollection<Book> Books { get; set; } = new HashSet<Book>();
     }
 }

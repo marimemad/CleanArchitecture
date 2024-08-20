@@ -1,11 +1,15 @@
-﻿namespace LibraryProject.Core.Bases
+﻿using LibraryProject.Core.Shared;
+using Microsoft.Extensions.Localization;
+
+namespace LibraryProject.Core.Bases
 {
     public class ResponseHandler
     {
+        public readonly IStringLocalizer<SharedResources> _stringLocalizer;
 
-        public ResponseHandler()
+        public ResponseHandler(IStringLocalizer<SharedResources> stringLocalizer)
         {
-
+            _stringLocalizer = stringLocalizer;
         }
         public Response<T> Deleted<T>(string Message = null)
         {
@@ -13,7 +17,7 @@
             {
                 StatusCode = System.Net.HttpStatusCode.OK,
                 Succeeded = true,
-                Message = Message ?? "Deleted Successfully"
+                Message = Message ?? _stringLocalizer[SharedResourcesKeys.Deleted]
             };
         }
         public Response<T> Success<T>(T entity, object Meta = null)
@@ -23,7 +27,7 @@
                 Data = entity,
                 StatusCode = System.Net.HttpStatusCode.OK,
                 Succeeded = true,
-                Message = "Added Successfully",
+                Message = _stringLocalizer[SharedResourcesKeys.Success],
                 Meta = Meta
             };
         }
@@ -62,7 +66,7 @@
             {
                 StatusCode = System.Net.HttpStatusCode.NotFound,
                 Succeeded = false,
-                Message = message == null ? "Not Found" : message
+                Message = message == null ? _stringLocalizer[SharedResourcesKeys.NotFound] : message
             };
         }
 
@@ -73,7 +77,7 @@
                 Data = entity,
                 StatusCode = System.Net.HttpStatusCode.Created,
                 Succeeded = true,
-                //Message = _localizer[SharedResourcesKeys.Created],
+                Message = _stringLocalizer[SharedResourcesKeys.Added],
                 Meta = Meta
             };
         }

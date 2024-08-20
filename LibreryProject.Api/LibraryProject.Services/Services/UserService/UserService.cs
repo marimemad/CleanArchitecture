@@ -50,6 +50,11 @@ namespace LibraryProject.Services.Services.UserService
             return user;
         }
 
+        public IQueryable<User> GetUsersQueryable()
+        {
+            return _userRepo.GetTableNoTracking().AsQueryable();
+        }
+
         public async Task<List<User>> GetUsersAsync()
         {
             return await _userRepo.GetUsersAsync();
@@ -67,6 +72,13 @@ namespace LibraryProject.Services.Services.UserService
             var FindUser = await _userRepo.GetTableNoTracking().Where(u => u.Email.Equals(email) & !u.UserID.Equals(id)).FirstOrDefaultAsync();
             if (FindUser != null) return true;
             return false;
+        }
+
+        public IQueryable<User> FilterUsersQueryable(string filter)
+        {
+            var queryable = _userRepo.GetTableNoTracking().AsQueryable();
+            var filtaration = queryable.Where(u => u.NameAr.Contains(filter) || u.NameEn.Contains(filter) || u.Address.Contains(filter) || u.Gender.Contains(filter));
+            return filtaration;
         }
     }
 }

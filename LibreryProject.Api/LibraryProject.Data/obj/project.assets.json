@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj",
+      "projectUniqueName": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj",
       "projectName": "LibraryProject.Data",
-      "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj",
+      "projectPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj",
       "packagesPath": "C:\\Users\\marim.emad\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\obj\\",
+      "outputPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

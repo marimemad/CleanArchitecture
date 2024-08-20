@@ -15,3 +15,20 @@ E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Servic
 E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Services\obj\Debug\net7.0\refint\LibraryProject.Services.dll
 E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Services\obj\Debug\net7.0\LibraryProject.Services.pdb
 E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Services\obj\Debug\net7.0\ref\LibraryProject.Services.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\bin\Debug\net7.0\LibraryProject.Services.deps.json
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\bin\Debug\net7.0\LibraryProject.Services.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\bin\Debug\net7.0\LibraryProject.Services.pdb
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\bin\Debug\net7.0\LibraryProject.Data.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\bin\Debug\net7.0\LibraryProject.Infrustructure.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\bin\Debug\net7.0\LibraryProject.Data.pdb
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\bin\Debug\net7.0\LibraryProject.Infrustructure.pdb
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\obj\Debug\net7.0\LibraryProject.Services.csproj.AssemblyReference.cache
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\obj\Debug\net7.0\LibraryProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\obj\Debug\net7.0\LibraryProject.Services.AssemblyInfoInputs.cache
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\obj\Debug\net7.0\LibraryProject.Services.AssemblyInfo.cs
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\obj\Debug\net7.0\LibraryProject.Services.csproj.CoreCompileInputs.cache
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\obj\Debug\net7.0\LibraryProject.Services.csproj.CopyComplete
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\obj\Debug\net7.0\LibraryProject.Services.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\obj\Debug\net7.0\refint\LibraryProject.Services.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\obj\Debug\net7.0\LibraryProject.Services.pdb
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Services\obj\Debug\net7.0\ref\LibraryProject.Services.dll

@@ -7,14 +7,21 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace LibraryProject.Api.Controllers
 {
+    //[Route("[controller]")]
     [ApiController]
     public class UserController : AppControllerBase
     {
-
         [HttpGet(Router.UserRouting.List)]
         public async Task<IActionResult> GetUsers()
         {
             Core.Bases.Response<List<GetUsersResponse>> response = await Mediator.Send(new GetUsersQuery());
+            return Ok(response);
+        }
+
+        [HttpGet(Router.UserRouting.Pagenated)]
+        public async Task<IActionResult> Pagenated([FromQuery] GetUsersPaginationQuery query)
+        {
+            var response = await Mediator.Send(query);
             return Ok(response);
         }
 

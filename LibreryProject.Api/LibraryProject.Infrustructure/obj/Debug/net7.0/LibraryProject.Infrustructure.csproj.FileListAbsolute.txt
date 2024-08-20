@@ -15,3 +15,20 @@ E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Infrus
 E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\LibraryProject.Infrustructure.pdb
 E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\LibraryProject.Infrustructure.genruntimeconfig.cache
 E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\ref\LibraryProject.Infrustructure.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\bin\Debug\net7.0\LibraryProject.Infrustructure.deps.json
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\bin\Debug\net7.0\LibraryProject.Infrustructure.runtimeconfig.json
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\bin\Debug\net7.0\LibraryProject.Infrustructure.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\bin\Debug\net7.0\LibraryProject.Infrustructure.pdb
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\bin\Debug\net7.0\LibraryProject.Data.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\bin\Debug\net7.0\LibraryProject.Data.pdb
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\LibraryProject.Infrustructure.csproj.AssemblyReference.cache
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\LibraryProject.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\LibraryProject.Infrustructure.AssemblyInfoInputs.cache
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\LibraryProject.Infrustructure.AssemblyInfo.cs
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\LibraryProject.Infrustructure.csproj.CoreCompileInputs.cache
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\LibraryProject.Infrustructure.csproj.CopyComplete
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\LibraryProject.Infrustructure.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\refint\LibraryProject.Infrustructure.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\LibraryProject.Infrustructure.pdb
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\LibraryProject.Infrustructure.genruntimeconfig.cache
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Infrustructure\obj\Debug\net7.0\ref\LibraryProject.Infrustructure.dll

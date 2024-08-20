@@ -10,8 +10,8 @@ namespace LibraryProject.Core.Mapping.UserMapping
         public UserProfile()
         {
             //queries
-            CreateMap<User, GetUsersResponse>();
-            CreateMap<User, GetUserResponse>();
+            CreateMap<User, GetUsersResponse>().ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.LocalizeName(src.NameAr, src.NameEn)));
+            CreateMap<User, GetUserResponse>().ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.LocalizeName(src.NameAr, src.NameEn)));
             //commands
             CreateMap<AddUserCommand, User>();
             CreateMap<EditeUserCommand, User>();

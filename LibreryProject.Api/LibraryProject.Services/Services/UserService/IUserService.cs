@@ -11,6 +11,7 @@ namespace LibraryProject.Services.Services.UserService
         public Task<bool> IsEmailExsistExcludeSelfAsync(string email, int id);
         public Task<string> EditeUserAsync(User user);
         public Task<string> DeleteUserAsync(User user);
-
+        public IQueryable<User> GetUsersQueryable();
+        public IQueryable<User> FilterUsersQueryable(string filter);
     }
 }

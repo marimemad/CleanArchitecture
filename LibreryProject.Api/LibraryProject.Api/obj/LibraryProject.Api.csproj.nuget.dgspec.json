@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Api\\LibraryProject.Api.csproj": {}
+    "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Api\\LibraryProject.Api.csproj": {}
   },
   "projects": {
-    "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Api\\LibraryProject.Api.csproj": {
+    "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Api\\LibraryProject.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Api\\LibraryProject.Api.csproj",
+        "projectUniqueName": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Api\\LibraryProject.Api.csproj",
         "projectName": "LibraryProject.Api",
-        "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Api\\LibraryProject.Api.csproj",
+        "projectPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Api\\LibraryProject.Api.csproj",
         "packagesPath": "C:\\Users\\marim.emad\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Api\\obj\\",
+        "outputPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj": {
-                "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj"
+              "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj": {
+                "projectPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj": {
+    "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj",
+        "projectUniqueName": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj",
         "projectName": "LibraryProject.Core",
-        "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj",
+        "projectPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Core\\LibraryProject.Core.csproj",
         "packagesPath": "C:\\Users\\marim.emad\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Core\\obj\\",
+        "outputPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -120,14 +120,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj": {
-                "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj"
+              "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj": {
+                "projectPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj"
               },
-              "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj": {
-                "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj"
+              "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj": {
+                "projectPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj"
               },
-              "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj": {
-                "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj"
+              "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj": {
+                "projectPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj"
               }
             }
           }
@@ -161,6 +161,10 @@
             "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Localization": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
@@ -183,14 +187,14 @@
         }
       }
     },
-    "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj": {
+    "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj",
+        "projectUniqueName": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj",
         "projectName": "LibraryProject.Data",
-        "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj",
+        "projectPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj",
         "packagesPath": "C:\\Users\\marim.emad\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\obj\\",
+        "outputPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -241,14 +245,14 @@
         }
       }
     },
-    "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj": {
+    "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj",
+        "projectUniqueName": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj",
         "projectName": "LibraryProject.Infrustructure",
-        "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj",
+        "projectPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj",
         "packagesPath": "C:\\Users\\marim.emad\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\obj\\",
+        "outputPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Infrustructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -268,8 +272,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj": {
-                "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj"
+              "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj": {
+                "projectPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj"
               }
             }
           }
@@ -325,14 +329,14 @@
         }
       }
     },
-    "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj": {
+    "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj",
+        "projectUniqueName": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj",
         "projectName": "LibraryProject.Services",
-        "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj",
+        "projectPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Services\\LibraryProject.Services.csproj",
         "packagesPath": "C:\\Users\\marim.emad\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Services\\obj\\",
+        "outputPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -352,11 +356,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj": {
-                "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj"
+              "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj": {
+                "projectPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Data\\LibraryProject.Data.csproj"
               },
-              "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj": {
-                "projectPath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj"
+              "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj": {
+                "projectPath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj"
               }
             }
           }

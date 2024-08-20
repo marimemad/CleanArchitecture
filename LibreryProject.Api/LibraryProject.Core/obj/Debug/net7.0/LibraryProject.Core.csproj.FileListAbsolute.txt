@@ -17,3 +17,29 @@ E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Core\o
 E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\refint\LibraryProject.Core.dll
 E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\LibraryProject.Core.pdb
 E:\projects\SelfStudy\CleanArchitecture\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\ref\LibraryProject.Core.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\bin\Debug\net7.0\LibraryProject.Core.deps.json
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\bin\Debug\net7.0\LibraryProject.Core.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\bin\Debug\net7.0\LibraryProject.Core.pdb
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\bin\Debug\net7.0\Ar\LibraryProject.Core.resources.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\bin\Debug\net7.0\En\LibraryProject.Core.resources.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\bin\Debug\net7.0\LibraryProject.Data.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\bin\Debug\net7.0\LibraryProject.Infrustructure.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\bin\Debug\net7.0\LibraryProject.Services.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\bin\Debug\net7.0\LibraryProject.Data.pdb
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\bin\Debug\net7.0\LibraryProject.Infrustructure.pdb
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\bin\Debug\net7.0\LibraryProject.Services.pdb
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\LibraryProject.Core.csproj.AssemblyReference.cache
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\LibraryProject.Core.Shared.SharedResources.Ar.resources
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\LibraryProject.Core.Shared.SharedResources.En.resources
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\LibraryProject.Core.csproj.GenerateResource.cache
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\LibraryProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\LibraryProject.Core.AssemblyInfoInputs.cache
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\LibraryProject.Core.AssemblyInfo.cs
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\LibraryProject.Core.csproj.CoreCompileInputs.cache
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\Ar\LibraryProject.Core.resources.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\En\LibraryProject.Core.resources.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\LibraryProject.Core.csproj.CopyComplete
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\LibraryProject.Core.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\refint\LibraryProject.Core.dll
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\LibraryProject.Core.pdb
+E:\projects\SelfStudy\New folder\LibreryProject.Api\LibraryProject.Core\obj\Debug\net7.0\ref\LibraryProject.Core.dll

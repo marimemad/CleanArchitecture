@@ -1,18 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using LibraryProject.Data.Commons;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LibraryProject.Data.Entities
 {
-    public class Book
+    public class Book : GeneralLocalizationEntity
     {
         [Key]
         public int BookID { get; set; }
         [StringLength(200)]
-        public string Name { get; set; }
+        public string NameAr { get; set; }
+        [StringLength(200)]
+        public string NameEn { get; set; }
         [StringLength(500)]
         public string Title { get; set; }
         [StringLength(500)]
@@ -23,5 +21,6 @@ namespace LibraryProject.Data.Entities
         public int NCopies { get; set; }
 
         public virtual ICollection<Category> Categories { get; set; } = new HashSet<Category>();
+        public virtual ICollection<Borrowing> Borrowings { get; set; } = new HashSet<Borrowing>();
     }
 }

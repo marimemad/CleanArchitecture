@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I0RSR2eZ6vWjHRQaFADsSpipAf2UfQUkQx1ox340TKQYJWjkmVsiBYc9A7o4voSS4dgFEGS0FDVYdjODrqv+Mw==",
+  "dgSpecHash": "mzDGynG+BXBv8GfLc5T/nTT4T7iD7QQlv6LRamBR8NXhvKK0pfiIjoECaSFKxMVzimly/F3XmwgysgqojCOMUA==",
   "success": true,
-  "projectFilePath": "E:\\projects\\SelfStudy\\CleanArchitecture\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj",
+  "projectFilePath": "E:\\projects\\SelfStudy\\New folder\\LibreryProject.Api\\LibraryProject.Infrustructure\\LibraryProject.Infrustructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marim.emad\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\marim.emad\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
